@@ -22,7 +22,7 @@ ratelim==0.1.6
 requests==2.13.0
 requests-aws4auth==0.9
 requests-oauthlib==0.8.0
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.1.10
 six==1.10.0
 tweepy==3.5.0
